@@ -16,5 +16,11 @@
         "title": "wasim",
         "message": "hi",
         "date": "2025-02-26"
+    },
+    {
+        "category": "Suspension",
+        "title": "suspention",
+        "message": "suspended",
+        "date": "2025-02-26"
     }
 ]
