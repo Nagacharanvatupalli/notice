@@ -70,5 +70,11 @@
         "title": "suspended",
         "message": "i am suspended due to using mobile in class",
         "date": "2025-02-26"
+    },
+    {
+        "category": "Holidays",
+        "title": "maha sivarathri",
+        "message": "this is inform to all the students that our collage is announcing holiday for maha sivarthri 26-02-2025",
+        "date": "2025-02-25"
     }
 ]
