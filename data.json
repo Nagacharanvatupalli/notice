@@ -64,5 +64,11 @@
         "title": "nagaacharan vatupalli",
         "message": "hi welcome to my notice board",
         "date": "2025-02-26"
+    },
+    {
+        "category": "Examination",
+        "title": "suspended",
+        "message": "i am suspended due to using mobile in class",
+        "date": "2025-02-26"
     }
 ]
